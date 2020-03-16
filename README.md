@@ -6,4 +6,13 @@ This repository is for assignments of the course [AMATH 482](https://canvas.uw.e
 4. Music Classification
 5. Neural Networks for Classifying Fashion-MNIST
 
-Each folder contains **MATLAB** code or **PYTHON** code and a report about methods I used and the result of the assignment.
+Each folder contains **MATLAB** code or **PYTHON** code and a **PDF** reports:
+
+- Abstract
+- Introduction and Overview
+- Theoretical Background. 
+- Algorithm Implementation and Development
+- Computational Results
+- Summary and Conclusions 
+- MATLAB or PYTHON functions used and brief implementation  
+- MATLAB or PYTHON codes
